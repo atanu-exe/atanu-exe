@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atanu
-- 👀 I’m interested in backend programing 
+- 👀 I’m interested in backend programming 
 - 🌱 I’m currently learning php with all other frame work
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
